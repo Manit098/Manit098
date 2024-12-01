@@ -23,9 +23,8 @@ Hey there! I'm a 16-year-old tech enthusiast from India, passionate about coding
 
 ---
 ## 📈 GitHub Stats  
-![Manit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manit098&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manit098&layout=compact&theme=radical)  
-
+![Manit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manit098&show_icons=true&theme=radical&cache_seconds=36)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manit098&layout=compact&theme=radical&cache_seconds=36)
 
 ---
 
