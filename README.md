@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm **Manit**  
-🌟 **Frontend Developer | Data Analyst | Aspiring Machine Learning Engineer**  
+🌟 **Data Scientist | Data Analyst | Aspiring Machine Learning Engineer**  
 
 ---
 
@@ -9,10 +9,10 @@ Hey there! I'm a 16-year-old tech enthusiast from India, passionate about coding
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python 🐍 | Java ☕ | JavaScript 🌐  
+- **Languages**: Python 🐍 | C 💻 | JavaScript 🌐 | Java ☕
 - **Frontend**: React.js ⚛️  
-- **Tools**: HTML5, CSS3, Tailwind CSS, Git  
-- **Data Analysis**: Pandas 📊 | NumPy | Seaborn | Matplotlib  
+- **Tools**: HTML5, CSS3, Tailwind CSS, Git, 
+- **Data Analysis**: Pandas 📊 | NumPy 🔢 | Seaborn And Matplotlib   📈
 - **Learning**: Machine Learning 🤖  
 
 ---
@@ -23,7 +23,6 @@ Hey there! I'm a 16-year-old tech enthusiast from India, passionate about coding
 
 ---
 ## 📈 GitHub Stats  
-![Manit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manit098&show_icons=true&theme=radical&cache_seconds=36)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manit098&layout=compact&theme=radical&cache_seconds=36)
 
 ---
