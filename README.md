@@ -9,17 +9,17 @@ Hey there! I'm a 16-year-old tech enthusiast from India, passionate about coding
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python 🐍 | C 💻 | JavaScript 🌐 | Java ☕
+- **Languages**: Python 🐍 | C/C++ 💻 | JavaScript 🌐 | Assembly 🗿
 - **Frontend**: React.js ⚛️  
-- **Tools**: HTML5, CSS3, Tailwind CSS, Git, 
-- **Data Analysis**: Pandas 📊 | NumPy 🔢 | Seaborn And Matplotlib   📈
-- **Learning**: Machine Learning 🤖  
+- **Tools**: HTML5, CSS3, Tailwind CSS, Git, ShadcnUI, 
+- **Data Science**: Pandas 📊 | NumPy 🔢 | Seaborn And Matplotlib   📈, Machine Learning 🤖
+- **Learning**: Quantum Computing 🗜, OS Development 💽   
 
 ---
 
 ## 🚀 Current Focus  
-- Expanding my knowledge in **Machine Learning** and **Deep Learning**.  
-- Building impactful web applications and exploring AI-powered solutions.  
+- Expanding my knowledge in **Quantum Computing** and **OS Development**.  
+- Building impactful open source projects for the future of Computer Science .  
 
 ---
 ## 📈 GitHub Stats  
