@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm **Manit**  
-🌟 **Full Stack Web Developer**  
+🌟 **Young Programmer**  
 
 ---
 
@@ -11,13 +11,10 @@ Hey there! I'm a 15-year-old tech enthusiast from India, passionate about coding
 ## 🛠️ Tech Stack  
 - **Backend**: Node.js 🟩 , Express.js ｡🇯‌🇸‌ , Typescript </>
 - **Database**: Mongodb 🛢
-- **Frontend**: React.js ⚛️  
-- **Tools**: HTML5, CSS3, Tailwind CSS, Git, ShadcnUI, 
-- **Learning**: Data Science 🤖| Low Level 😎  
+- **System Level**: C,C++, ASM X86
+- **Learning**: Data Science 🤖 
 
 ---
-## 📈 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manit098&layout=compact&theme=radical&cache_seconds=36)
 
 ---
 
