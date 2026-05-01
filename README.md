@@ -1,29 +1,50 @@
-# 👋 Hi there! I'm **Manit**  
-🌟 **Young Programmer**  
+# Manit Mishra
+
+Frontend Engineer & Systems Programming Enthusiast
+
+Building modern SaaS interfaces, fast user experiences, and clean frontend architectures.
 
 ---
 
-## 🧑‍💻 About Me  
-Hey there! I'm a 15-year-old tech enthusiast from India, passionate about coding, problem-solving, and exploring the limitless potential of technology. Currently, I’m diving deeper into **machine learning** and leveraging my skills to build innovative projects.
+## Focus
+
+* Next.js
+* React
+* Tailwind CSS
+* UI Engineering
+* SaaS Frontends
+* Low-Level Systems Programming
 
 ---
 
-## 🛠️ Tech Stack  
-- **Backend**: Node.js 🟩 , Express.js ｡🇯‌🇸‌ , Typescript </>
-- **Database**: Mongodb 🛢
-- **System Level**: C,C++, ASM X86
-- **Learning**: Data Science 🤖 
+## Current Direction
+
+Designing polished startup interfaces while exploring systems-level programming and open-source engineering.
 
 ---
 
----
+## Featured Work
 
-## 🌐 Connect With Me  
-- **Email**: manitnv840@gmail.com
-- **Discord**: legendrypro
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/manit-mishra-39363a309)  
-- **Portfolio**: [My Portfolio](https://manit.is-a.dev/)  
+### NEUROVA
+
+Modern SaaS landing page focused on clean UX, responsive design, and conversion-driven structure.
 
 ---
 
-### 💡 "Code is like humor. When you have to explain it, it’s bad."  
+## Philosophy
+
+> Build clean.
+> Build fast.
+> Build with intent.
+
+---
+
+## Tech
+
+`Next.js` `React` `TypeScript` `TailwindCSS` `C` `Linux`
+
+---
+
+## Contact
+
+Open to frontend collaborations, startup projects, and open-source work.
