@@ -1,33 +1,27 @@
 # Manit Mishra
 
-Frontend Engineer & Systems Programming Enthusiast
+Full Stack Developer & Systems Programming Enthusiast
 
-Building modern SaaS interfaces, fast user experiences, and clean frontend architectures.
-
+Founder & CEO @ Waycode
+  
 ---
 
 ## Focus
 
 * Next.js
-* React
+* React + Vite 
 * Tailwind CSS
-* UI Engineering
-* SaaS Frontends
+* Express & NodeJS
+* Startups 
 * Low-Level Systems Programming
+* AI/ML
 
 ---
 
 ## Current Direction
 
-Designing polished startup interfaces while exploring systems-level programming and open-source engineering.
+Leading Waycode while exploring systems-level programming and open-source engineering.
 
----
-
-## Featured Work
-
-### NEUROVA
-
-Modern SaaS landing page focused on clean UX, responsive design, and conversion-driven structure.
 
 ---
 
@@ -41,10 +35,10 @@ Modern SaaS landing page focused on clean UX, responsive design, and conversion-
 
 ## Tech
 
-`Next.js` `React` `TypeScript` `TailwindCSS` `C` `Linux`
+`Next.js` `TailwindCSS` `Express + NodeJS` `MongoDB/PostgreSQL`  `C & C++` `Linux`
 
 ---
 
 ## Contact
 
-Open to frontend collaborations, startup projects, and open-source work.
+Open to collaborations, startup projects, and open-source work.
