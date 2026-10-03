@@ -40,5 +40,5 @@ Leading Waycode while exploring systems-level programming and open-source engine
 ---
 
 ## Contact
-
+manit@waycode.in
 Open to collaborations, startup projects, and open-source work.
